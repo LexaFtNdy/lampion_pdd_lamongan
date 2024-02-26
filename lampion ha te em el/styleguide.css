@@ -1,0 +1,10 @@
+:root {
+    --disable: rgba(157, 157, 157, 1);
+    --primarynavy: rgba(12, 53, 106, 1);
+    --primaryblue: rgba(1, 116, 190, 1);
+    --primaryyellow: rgba(255, 196, 54, 1);
+    --primarycream: rgba(255, 240, 206, 1);
+    --neutralgrey: rgba(44, 44, 44, 1);
+    --neutralwhite: rgba(255, 255, 255, 1);
+    --primaryf-9f-5f-6: rgba(249, 245, 246, 1);
+}
